@@ -4,8 +4,7 @@ import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
 
-import com.ads.ads2023.Ads_Preference;
-import com.ads.ads2023.VPN;
+
 
 public class MainActivity extends AppCompatActivity {
 
