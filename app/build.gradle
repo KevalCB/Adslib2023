@@ -25,6 +25,7 @@ android {
         sourceCompatibility JavaVersion.VERSION_11
         targetCompatibility JavaVersion.VERSION_11
     }
+
 }
 
 dependencies {
@@ -37,10 +38,7 @@ dependencies {
     androidTestImplementation 'androidx.test.ext:junit:1.1.5'
     androidTestImplementation 'androidx.test.espresso:espresso-core:3.5.1'
 
-//    implementation files('libs/Ads2023-1.0.5.aar')
-//    implementation project('Ads2023')
+
 
 }
-//afterEvaluate{
-//    android.libraryVa
-//}
+
